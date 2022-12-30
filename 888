@@ -1,0 +1,19 @@
+
+<html><head>
+		<meta charset="utf-8">
+		<title>ten</title>
+		<script>
+			function dashuaibi(){
+				alert("你最喜欢什么？");
+			}
+			function dashuaibib(){
+				alert("什么？什么？");
+			}
+		</script>
+	</head>
+	<body onload="dashuaibi()">
+		<img src="img/1.jpg"><br>
+		<input type="text" id="fname" onblur="dashuaibib()">
+	
+
+</body></html>
